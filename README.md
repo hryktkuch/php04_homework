@@ -24,7 +24,7 @@ https://hryktkuch.sakura.ne.jp/php04_homework/login.php
 
 ## ⑤工夫した点・こだわった点
 
-- とくにない
+- $_SESSIONがめちゃ便利
 
 ## ⑥難しかった点・次回トライしたいこと(又は機能)
 
